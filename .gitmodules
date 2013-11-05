@@ -1,0 +1,3 @@
+[submodule "ilynx.common"]
+	path = ilynx.common
+	url = https://github.com/ilynx/ilynx.common
